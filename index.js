@@ -1,5 +1,5 @@
 
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [ ryanjim ]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
 //  >> Scripted by Sir Ibrahim Adams                                    
